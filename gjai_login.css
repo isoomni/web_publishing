@@ -1,0 +1,10 @@
+h1 {
+    color: indigo;
+}
+
+.login_form {
+    width: 180px;
+    padding: 80px;
+    border: blueviolet;
+    background-color: blueviolet;
+}

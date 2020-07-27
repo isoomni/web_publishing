@@ -1,0 +1,16 @@
+.box-container {
+    width: 350px;
+    height: 85px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box {
+    width: 80px;
+    height: 80px;
+    border-radius: 3px;
+    background-color: lightcoral;
+    margin: 3px;
+}

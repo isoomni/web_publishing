@@ -1,0 +1,31 @@
+.box-container1 {
+    width: 350px;
+    height: 75px;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.box-container2 {
+    width: 350px;
+    height: 75px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-container3 {
+    width: 350px;
+    height: 75px;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.box {
+    width: 70px;
+    height: 70px;
+    border-radius: 3px;
+    background-color: lightcoral;
+    margin: 3px;
+}
